@@ -1,0 +1,50 @@
+# Política de Privacidade – Aplicativos Android
+*(Adendo à Política de Privacidade Geral da CHG Automotiva Ltda)*
+
+**Última atualização:** Setembro de 2026
+
+A **CHG AUTOMOTIVA LTDA**, inscrita no CNPJ nº 55.176.358/0001-61, apresenta este documento para informar de forma clara, transparente e em conformidade com a Lei Geral de Proteção de Dados (**LGPD**) e com as diretrizes da Google Play Store, como funciona a coleta e o tratamento de dados nos aplicativos disponíveis na Play Store.
+
+---
+
+## 1. Uso Exclusivo Corporativo e Institucional
+* Os aplicativos são de uso estrito e exclusivo interno da empresa CHG Automotiva Ltda e de seus colaboradores autorizados.
+* Os aplicativos **não** são disponibilizados para o público geral.
+* O acesso é restrito e exige credenciais corporativas previamente fornecidas pela administração da empresa.
+
+---
+
+## 2. Permissões do Dispositivo e Coleta de Dados
+Para viabilizar as operações logísticas de gerenciamento de armazém, o aplicativo requer e utiliza as seguintes funções do dispositivo Android:
+
+### A. Uso da Câmera (Leitura de Códigos e Registro de Avarias)
+Os aplicativos solicitam acesso à câmera do dispositivo exclusivamente para finalidades operacionais e de conferência:
+* **Leitura de Códigos de Barra e QR Codes:** Destinada à identificação rápida de produtos, conferência de inventário, triagem e movimentação de mercadorias no sistema de estoque.
+* **Fotografia de Avarias:** Destinada a registrar visualmente volumes, embalagens ou produtos que apresentem danos ou defeitos, anexando a imagem diretamente ao relatório de sinistros e controle de qualidade interna.
+
+As imagens capturadas são processadas apenas para o cumprimento das atividades logísticas e enviadas de forma segura para os servidores internos da empresa.
+
+### B. Dados de Localização (Em Primeiro e Segundo Plano / Background)
+Alguns aplicativos coletam dados de localização geográfica do dispositivo (coordenadas GPS) mesmo quando o aplicativo está fechado ou não está sendo utilizado ativamente (em segundo plano/background). Essa funcionalidade é validada com o número de série dos equipamentos; se não forem números de série previamente cadastrados, a localização **não** é enviada para nossos servidores.
+
+* **Finalidade Única e Exclusiva:** Esta coleta é utilizada estritamente para a localização, rastreamento e recuperação de coletores de dados e equipamentos corporativos perdidos ou esquecidos dentro dos limites físicos e operacionais das unidades da CHG Automotiva.
+* **Restrição de Uso:** Em nenhuma hipótese esses dados são utilizados para fiscalização de jornada de trabalho, monitoramento de perfil dos colaboradores, fins comerciais ou compartilhados com terceiros.
+
+---
+
+## 3. Segurança e Retenção dos Dados
+Em consonância com as práticas de Segurança da Informação da CHG Automotiva, todos os dados e registros de mídia transmitidos pelo aplicativo utilizam conexões criptografadas. O armazenamento é feito em servidores seguros pelo período estritamente necessário para cumprir as finalidades operacionais e de auditoria interna da empresa.
+
+---
+
+## 4. Consentimento e Requisitos Técnicos (Android)
+Devido às políticas de segurança do sistema operacional Android, o usuário deverá conceder explicitamente as permissões de Câmera e de Localização (*“Permitir o tempo todo”*). A concessão e manutenção dessas permissões são obrigatórias para a execução regular das ferramentas de trabalho no aplicativo.
+
+---
+
+## 5. Contato e Encarregado pelo Tratamento de Dados (DPO)
+Para exercer seus direitos previstos na LGPD, esclarecer dúvidas ou relatar incidentes envolvendo os aplicativos da CHG, os usuários podem entrar em contato com o responsável pela privacidade da empresa:
+
+* **E-mail:** [privacidade@chg.com.br](mailto:privacidade@chg.com.br)
+* **Telefone:** (19) 3729-6500
+* **Horário de Atendimento:** Segunda a Sexta-feira, das 08h00 às 17h30.
